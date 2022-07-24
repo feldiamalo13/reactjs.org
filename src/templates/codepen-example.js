@@ -64,7 +64,7 @@ class CodepenExample extends Component<Props> {
               Not automatically redirecting?
               <br />
               <br />
-              <input style={primaryStyle} type="submit" value="Click here" />
+              <input style={primaryStyle} type="submit" value="Click disini" />
             </p>
           </form>
         </Container>
